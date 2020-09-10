@@ -15,7 +15,7 @@ function App() {
               My name is Tammy Lam.
               I'm currently a junior at the University of Houston, pursuing a Bachelors of Science in Mathematics with a concentration in Mathematical Finance.
               I enjoy programming, doodling, and practicing minimalism.
-              You'll find the projects I've worked on below.</p>
+              You'll find some of the projects I've worked on below.</p>
           </div>
         </div>
         <div className="row">
@@ -24,9 +24,10 @@ function App() {
               <div className="card-body" style={{ paddingBottom: '0px' }}>
                 <h3 className="card-title">Predictable Chaos?</h3>
                 <p style={{ fontSize: '1.2em' }}>
-                  I started working on this project in December 2019 with Dr. William Ott of the Ergodic Theory and Dynamical Systems research group at UH.
-                  We're working on studying, and predicting, chaotic series with reservoir computing.
-                  Our research was funded in the Summer of 2020 by UH. This is a board I made for Undergraduate Research presentations.
+                  Predictable Chaos? is a data science project that strives to predict time-delayed chaotic dynamical systems with machine learning.
+                  The research is conducted in conjunction with Dr. William Ott at the University of Houston and Dr. Bhargav Karamched at Florida State University.
+                  We began working in December 2019 and received funding from UH in Summer 2020.
+                  This is my presentation board for Undergraduate Research Day 2020.
                 </p>
               </div>
               <div className="card-footer d-flex justify-content-end" style={{ background: 'transparent', border: '0px', paddingBottom: '20px', paddingTop: '0px' }}>
@@ -44,7 +45,7 @@ function App() {
               <div className="card-body" style={{ paddingBottom: '0px' }}>
                 <h3 className="card-title">TipTap</h3>
                 <p style={{ fontSize: '1.2em' }}>
-                  A simple typing game made in React. Written for practice.
+                  TipTap is a simple typing game written in React with Bootstrap4. It has a toggleable word prompt and dark mode.
                 </p>
               </div>
               <div className="card-footer d-flex justify-content-end" style={{ background: 'transparent', border: '0px', paddingBottom: '20px', paddingTop: '0px' }}>
